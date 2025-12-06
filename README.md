@@ -12,7 +12,6 @@ A curated list of open datasets and resources for points of interest (POIs) in B
 
 ## Contents
 
-- [Community](#community)
 - [Education & Family](#education--family)
 - [Environment & Nature](#environment--nature)
 - [Health & Care](#health--care)
@@ -23,13 +22,10 @@ A curated list of open datasets and resources for points of interest (POIs) in B
 
 ------------------------------
 
-## Community
-
-- 👥 [Begegnungsstätten des Bezirksamtes Pankow](https://daten.berlin.de/datensaetze/begegnungsstatten-des-bezirksamtes-pankow) - Meeting places and community centers in Berlin-Pankow.
-
 ## Education & Family
 
 - 🎒 [Kita Navigator Berlin](https://kita-navigator.berlin.de/) - Official Berlin daycare search with 2,856 Kitas including availability status, coordinates, and [OpenAPI specification](https://github.com/tifa365/kitas_berlin).
+- 👥 [Begegnungsstätten des Bezirksamtes Pankow](https://daten.berlin.de/datensaetze/begegnungsstatten-des-bezirksamtes-pankow) - Meeting places and community centers in Berlin-Pankow.
 - 👶 [Kitas in Berlin](https://daten.berlin.de/datensaetze/kitas-in-berlin) - Dataset of daycare facilities across Berlin.
 - 👨‍👩‍👧 [Berliner Familienzentren](https://daten.berlin.de/datensaetze/berliner-familienzentren) - Family centers offering support services for families in Berlin.
 - 🏫 [Schulen in Berlin](https://daten.berlin.de/datensaetze/schulen-in-berlin-1096779) - Comprehensive list of schools in Berlin.
