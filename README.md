@@ -31,6 +31,7 @@ A curated list of open datasets and resources for points of interest (POIs) in B
 
 ## History & Memorials
 
+- 🏚️ [Lost Places Berlin](https://github.com/tifa365/lost-places-berlin) - Collection of 97 abandoned locations in Berlin including military sites, industrial ruins, hospitals, and DDR relics with coordinates in JSON format.
 - 🕯️ [Stolpersteine Berlin](https://www.stolpersteine-berlin.de/de/stolpersteine-finden) - Database of stumbling stones commemorating victims of Nazi persecution with biographical info, addresses, and [JSON](https://www.stolpersteine-berlin.de/de/api/json/stolpersteine.json?display=page_1) with GPS coordinates.
 
 ## Street Art & Urban Culture
