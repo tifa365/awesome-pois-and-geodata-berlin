@@ -19,6 +19,7 @@ A curated list of open datasets and resources for points of interest (POIs) in B
 - [Public Services & Amenities](#public-services--amenities)
 - [Street Art & Urban Culture](#street-art--urban-culture)
 - [Transport & Mobility](#transport--mobility)
+- [See Also](#see-also)
 
 ------------------------------
 
@@ -93,7 +94,12 @@ A curated list of open datasets and resources for points of interest (POIs) in B
 - 🎫 [Parkscheinautomaten – Standorte](https://daten.berlin.de/datensaetze/parkscheinautomaten-psa-standorte-oeffentlich-anzeigen-1118550) - Parking ticket machine locations.
 - ♿ [Behindertenparkplätze (WFS)](https://daten.berlin.de/datensaetze/behindertenparkplatze-wfs-933a4232) - Accessible parking spaces for people with disabilities.
 
-➡️ See also [awesome-berlin-transit](https://github.com/tifa365/awesome-berlin-transit) for more public transport datasets.
+## See Also
+
+- 🚇 [awesome-berlin-transit](https://github.com/tifa365/awesome-berlin-transit) - Curated list of public transport datasets for Berlin.
+- 📊 [awesome-berlin-data](https://github.com/tifa365/awesome-berlin-data) - Curated list of open data resources for Berlin.
+
+------------------------------
 
 ## Contributing
 
