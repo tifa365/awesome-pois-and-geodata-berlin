@@ -95,8 +95,6 @@ A curated list of open datasets and resources for points of interest (POIs) in B
 
 ➡️ See also [awesome-berlin-transit](https://github.com/tifa365/awesome-berlin-transit) for more public transport datasets.
 
-## See Also
-
 ## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
