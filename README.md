@@ -1,12 +1,12 @@
-# awesome-pois-berlin [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![RSS](https://img.shields.io/badge/Subscribe-RSS-blue.svg)](https://github.com/tifa365/pois-berlin/commits/main.atom)
+# awesome-pois-and-geodata-berlin [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![RSS](https://img.shields.io/badge/Subscribe-RSS-blue.svg)](https://github.com/tifa365/awesome-pois-and-geodata-berlin/commits/main.atom)
 
-##### Curated collection of interesting points of interest in Berlin
+##### Curated collection of POIs and geodata for Berlin
 
 ------------------------------
 
 ## About
 
-A curated list of open datasets and resources for points of interest (POIs) in Berlin. Focus on sources that provide geographic coordinates and are freely accessible.
+A curated list of open datasets and resources for points of interest (POIs) and geodata in Berlin. Focus on sources that provide geographic coordinates and are freely accessible.
 
 ------------------------------
 
